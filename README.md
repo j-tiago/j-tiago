@@ -1,5 +1,5 @@
 # 👤 About Me:
-Eu tenho conhecimento em HTML, CSS, JS e React.js. Meu objetivo é ser um futuro full stack, e atualmente meu foco é me desenvolver em java. No momento eu estagio como QA e estou aprendendo sobre testes de API e testes Automatizados
+Possuo conhecimentos em HTML, CSS, JavaScript e React.js, e tenho como objetivo profissional atuar como desenvolvedor Full Stack. Atualmente, dedico-me ao aprimoramento das minhas habilidades na linguagem Java. Em paralelo, atuo como estagiário na área de Quality Assurance (QA), onde venho desenvolvendo competências práticas em testes de API e testes automatizados.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Eu tenho conhecimento em HTML, CSS, JS e React.js. Meu objetivo é ser um futuro
 ![](https://github-readme-stats.shion.dev/api?username=j-tiago&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=j-tiago&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=j-tiago&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=j-tiago&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=j-tiago&icon=2&color=0)](https://visitcount.itsvg.in)
