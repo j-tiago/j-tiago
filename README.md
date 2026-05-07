@@ -12,7 +12,4 @@ Possuo conhecimentos em HTML, CSS, JavaScript e React.js, e tenho como objetivo 
 ![](https://streak-stats.demolab.com/?user=j-tiago&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=j-tiago&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=j-tiago&icon=2&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
