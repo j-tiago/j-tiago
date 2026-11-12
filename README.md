@@ -27,13 +27,9 @@
 </div>
 <!-- Para linkar outro projeto, adicione uma linha como a de cima apontando para https://github.com/j-tiago/NOME-DO-REPO -->
 
-## `/logs`
+<br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=j-tiago&theme=dark&hide_border=true&background=05070D&ring=22E1FF&fire=FF8A3D&currStreakLabel=22E1FF&sideLabels=6F8AA3&currStreakNum=E8F6FF&sideNums=E8F6FF&dates=6F8AA3&locale=pt_BR" alt="Estatísticas de contribuição de j-tiago"/>
-
-</div>
+<img src="./assets/logs.svg" alt="Logs: 70 contribuições no total desde 26 de março de 2025; sequência atual de 1 dia, em 12 de novembro; maior sequência de 2 dias, de 7 a 8 de maio de 2025. Atualizado em 12/11/2026." width="100%"/>
 
 <br/>
 
