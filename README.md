@@ -1,43 +1,44 @@
 <div align="center">
 
-<img src="./assets/carta-celeste.svg" alt="João Tiago — carta celeste: QA, Front-end, testes de API e automação orbitando rumo ao Full Stack" width="100%"/>
+<img src="./assets/login.svg" alt="João Tiago — Engenharia de Software. Módulos: desenvolvimento, qualidade e automação. iCEV, Teresina, Piauí." width="100%"/>
 
 <br/><br/>
 
-<!-- TODO: troque SEU-USUARIO pelos seus links reais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-14254a?style=for-the-badge&labelColor=070b16)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-14254a?style=for-the-badge&logo=instagram&logoColor=ffc66d)](https://www.instagram.com/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-14254a?style=for-the-badge&logo=gmail&logoColor=ffc66d)](mailto:jtiagolimac@gmail.com)
+<!-- TODO: troque SEU-USUARIO pelo seu usuário do Instagram -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1220?style=for-the-badge&labelColor=22e1ff)](https://www.linkedin.com/in/jo%C3%A3otiagolima)
+[![Instagram](https://img.shields.io/badge/Instagram-0a1220?style=for-the-badge&logo=instagram&logoColor=22e1ff)](https://www.instagram.com/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-0a1220?style=for-the-badge&logo=gmail&logoColor=22e1ff)](mailto:jtiagolimac@gmail.com)
 
 </div>
 
 <br/>
 
-Sou estudante de **Engenharia de Software no iCEV** e tenho como objetivo atuar como desenvolvedor **Full Stack**.
-Venho construindo experiência prática em **Quality Assurance**, com **testes de API** e **testes automatizados** (Selenium, Playwright e Cypress), e também trabalho com HTML, CSS, JavaScript e React.js.
+Sou estudante de **Engenharia de Software no iCEV** (formatura prevista para nov/2027), com 18 meses de experiência prática em tecnologia na **MobiMark**, atuando em desenvolvimento de interfaces **web e mobile**, **testes de software** e **validação de APIs**.
+Programo em **Python, JavaScript e Kotlin** e automatizo testes com **Selenium, Pytest** e pipelines de **CI/CD**.
 
 <br/>
 
-<img src="./assets/rota-de-voo.svg" alt="Rota de voo: Engenharia de Software no iCEV, Quality Assurance, Front-end e o destino Full Stack" width="100%"/>
+<img src="./assets/mapa-do-sistema.svg" alt="Mapa do sistema, cada torre é uma skill: Python, JavaScript, C++, Kotlin, Java, HTML5, CSS3, React.js, Node.js, FastAPI, Flutter, Selenium, Pytest, testes de API, testes manuais, Playwright, Cypress, Postman, Swagger, GitHub Actions, Azure DevOps, CMake, Git, GitHub, Bitbucket, Jira, Confluence, Trello, Windows Terminal, SQLite, Supabase, Firebase, Oracle. Fundamentos: algoritmos, estruturas de dados e trabalho em equipe" width="100%"/>
 
 <br/><br/>
 
-<img src="./assets/constelacoes.svg" alt="Constelações de tecnologias: HTML5, CSS3, JavaScript, Java, React.js, Selenium, Playwright, Cypress, Postman, Swagger, Git, GitHub, GitHub Actions, Jira, Confluence, Trello, Bitbucket, Windows Terminal, SQLite, Supabase, Firebase, Oracle" width="100%"/>
+<img src="./assets/camadas.svg" alt="Camadas da simulação: Engenharia de Software no iCEV, qualidade e automação, interfaces web e mobile, e Desenvolvedor Full Stack em compilação" width="100%"/>
 
-## 🛰️ Expedições
+## `/projetos`
 
-| Expedição | Descrição |
+| Projeto | Descrição |
 | :-- | :-- |
-| [**Chess Challenge III**](https://github.com/AlexandreCavalcantee/chess-challenge) | Motor de xadrez desenvolvido em equipe para o desafio do iCEV |
-<!-- Copie a linha acima para adicionar mais projetos:
-| [**Nome do projeto**](https://github.com/j-tiago/NOME-DO-REPO) | Uma frase sobre o que ele faz |
--->
+| [**Chess Challenge III**](https://github.com/AlexandreCavalcantee/chess-challenge) | Motor de xadrez em C++20 feito em equipe: bitboards, busca alfa-beta, avaliação própria e interface de operador (terminal e web) sobre o protocolo UCI. *C++20 · CMake · Node.js* |
+| **GameVault** | Aplicativo mobile de catálogo de games, com componentes visuais e navegação responsiva. *Flutter* |
+| **PetZone** | Aplicação que conecta usuários e pets, com foco na estruturação de perfis e na experiência do usuário. *Web · Mobile* |
+| **Automação de Testes E2E** | Scripts de automação para sistemas web, com sincronização de componentes assíncronos e captura automática de screenshots em falhas. *Python · Selenium · Pytest* |
+<!-- Para linkar um projeto, troque **Nome** por [**Nome**](https://github.com/j-tiago/NOME-DO-REPO) -->
 
-## 🌌 Registro de voo
+## `/logs`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=j-tiago&theme=dark&hide_border=true&background=070B16&ring=FF9D4D&fire=FFC66D&currStreakLabel=FFC66D&sideLabels=8D9BB0&currStreakNum=F2E6C9&sideNums=F2E6C9&dates=8D9BB0&locale=pt_BR" alt="Estatísticas de contribuição de j-tiago"/>
+<img src="https://streak-stats.demolab.com?user=j-tiago&theme=dark&hide_border=true&background=05070D&ring=22E1FF&fire=FF8A3D&currStreakLabel=22E1FF&sideLabels=6F8AA3&currStreakNum=E8F6FF&sideNums=E8F6FF&dates=6F8AA3&locale=pt_BR" alt="Estatísticas de contribuição de j-tiago"/>
 
 <br/><br/>
 
@@ -52,4 +53,4 @@ Venho construindo experiência prática em **Quality Assurance**, com **testes d
 
 <br/>
 
-<img src="./assets/fogueira.svg" alt="Tem lugar perto da fogueira" width="100%"/>
+<img src="./assets/canal-aberto.svg" alt="Canal aberto: bugs, ideias e parcerias trafegam por aqui" width="100%"/>
