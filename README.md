@@ -1,16 +1,55 @@
-# 👤 About Me:
-Possuo conhecimentos em HTML, CSS, JavaScript e React.js, e tenho como objetivo profissional atuar como desenvolvedor Full Stack. Atualmente, dedico-me ao aprimoramento das minhas habilidades na linguagem Java. Em paralelo, atuo como estagiário na área de Quality Assurance (QA), onde venho desenvolvendo competências práticas em testes de API e testes automatizados.
+<div align="center">
 
+<img src="./assets/carta-celeste.svg" alt="João Tiago — carta celeste: QA, Front-end, testes de API e automação orbitando rumo ao Full Stack" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaotiago_l.c) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3otiagolima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWBQGtRQjQZ6DnMAksbD1SA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jtiagolimac@gmail.com) 
+<br/><br/>
 
-# 💻 Tech Stack:
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
+<!-- TODO: troque SEU-USUARIO pelos seus links reais -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14254a?style=for-the-badge&labelColor=070b16)](https://www.linkedin.com/in/SEU-USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-14254a?style=for-the-badge&logo=instagram&logoColor=ffc66d)](https://www.instagram.com/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-14254a?style=for-the-badge&logo=gmail&logoColor=ffc66d)](mailto:jtiagolimac@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=j-tiago&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=j-tiago&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=j-tiago&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+Sou estudante de **Engenharia de Software no iCEV** e tenho como objetivo atuar como desenvolvedor **Full Stack**.
+Venho construindo experiência prática em **Quality Assurance**, com **testes de API** e **testes automatizados** (Selenium, Playwright e Cypress), e também trabalho com HTML, CSS, JavaScript e React.js.
+
+<br/>
+
+<img src="./assets/rota-de-voo.svg" alt="Rota de voo: Engenharia de Software no iCEV, Quality Assurance, Front-end e o destino Full Stack" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/constelacoes.svg" alt="Constelações de tecnologias: HTML5, CSS3, JavaScript, Java, React.js, Selenium, Playwright, Cypress, Postman, Swagger, Git, GitHub, GitHub Actions, Jira, Confluence, Trello, Bitbucket, Windows Terminal, SQLite, Supabase, Firebase, Oracle" width="100%"/>
+
+## 🛰️ Expedições
+
+| Expedição | Descrição |
+| :-- | :-- |
+| [**Chess Challenge III**](https://github.com/AlexandreCavalcantee/chess-challenge) | Motor de xadrez desenvolvido em equipe para o desafio do iCEV |
+<!-- Copie a linha acima para adicionar mais projetos:
+| [**Nome do projeto**](https://github.com/j-tiago/NOME-DO-REPO) | Uma frase sobre o que ele faz |
+-->
+
+## 🌌 Registro de voo
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=j-tiago&theme=dark&hide_border=true&background=070B16&ring=FF9D4D&fire=FFC66D&currStreakLabel=FFC66D&sideLabels=8D9BB0&currStreakNum=F2E6C9&sideNums=F2E6C9&dates=8D9BB0&locale=pt_BR" alt="Estatísticas de contribuição de j-tiago"/>
+
+<br/><br/>
+
+<!-- A cobrinha é gerada pelo workflow .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j-tiago/j-tiago/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j-tiago/j-tiago/output/github-contribution-grid-snake.svg">
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/j-tiago/j-tiago/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<img src="./assets/fogueira.svg" alt="Tem lugar perto da fogueira" width="100%"/>
