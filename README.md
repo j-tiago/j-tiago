@@ -8,15 +8,15 @@
 
 <img src="./assets/sobre.svg" alt="Sobre: estudante de Engenharia de Software no iCEV (formatura prevista para nov/2027), com 18 meses de experiência prática em tecnologia na MobiMark, atuando em interfaces web e mobile, testes de software e validação de APIs. Programa em Python, JavaScript e Kotlin e automatiza testes com Selenium, Pytest e pipelines de CI/CD." width="100%"/>
 
-<br/><br/>
+<br/>
 
 <img src="./assets/mapa-do-sistema.svg" alt="Mapa do sistema, cada torre é uma skill: Python, JavaScript, C++, Kotlin, Java, HTML5, CSS3, React.js, Node.js, FastAPI, Flutter, Selenium, Pytest, testes de API, testes manuais, Playwright, Cypress, Postman, Swagger, GitHub Actions, Azure DevOps, CMake, Git, GitHub, Bitbucket, Jira, Confluence, Trello, Windows Terminal, SQLite, Supabase, Firebase, Oracle. Fundamentos: algoritmos, estruturas de dados e trabalho em equipe" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <img src="./assets/camadas.svg" alt="Camadas da simulação: Engenharia de Software no iCEV, qualidade e automação, interfaces web e mobile, e Desenvolvedor Full Stack em compilação" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <img src="./assets/projetos.svg" alt="Projetos: Chess Challenge III (motor de xadrez em C++20 feito em equipe), GameVault (app mobile de catálogo de games em Flutter), PetZone (aplicação que conecta usuários e pets) e Automação de Testes E2E (Python, Selenium e Pytest)." width="100%"/>
 
@@ -32,15 +32,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=j-tiago&theme=dark&hide_border=true&background=05070D&ring=22E1FF&fire=FF8A3D&currStreakLabel=22E1FF&sideLabels=6F8AA3&currStreakNum=E8F6FF&sideNums=E8F6FF&dates=6F8AA3&locale=pt_BR" alt="Estatísticas de contribuição de j-tiago"/>
-
-<br/><br/>
-
-<!-- A cobrinha é gerada pelo workflow .github/workflows/snake.yml (precisa estar em .github, com o ponto) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j-tiago/j-tiago/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j-tiago/j-tiago/output/github-contribution-grid-snake.svg">
-  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/j-tiago/j-tiago/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 </div>
 
